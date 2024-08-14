@@ -82,7 +82,7 @@ PLOTING
 ```{r}
 mean(mydf$score)
 str(mydf)
-summary(mydf)
+summary(mydf)#make changes
 ```
 Loading files
 ```{r}
